@@ -1,7 +1,3 @@
-Here’s a professional and clear **README** for your Iris Flower Classification project based on the code and results you shared:
-
----
-
 # Iris Flower Classification 🌸
 
 ## Project Overview
