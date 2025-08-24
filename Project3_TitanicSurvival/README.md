@@ -1,7 +1,3 @@
-Here’s a clean **README** for your Titanic Survival Prediction project based on your results:
-
----
-
 # Titanic Survival Prediction 🚢
 
 ## Project Overview
