@@ -1,31 +1,67 @@
-2️⃣ Project 2: Iris Flower Classification 🌸
+# ML Beginner Projects 📂
 
-Classification task on the famous Iris dataset
+Welcome to **ML Beginner Projects**, a collection of practical machine learning projects for beginners. This repository covers both **classification** and **regression** tasks using real-world datasets, and demonstrates workflows including **EDA, preprocessing, model training, and evaluation**.
 
-Models: Logistic Regression, Decision Tree, KNN
+---
 
-Goal: Classify flowers into Setosa, Versicolor, Virginica
+## 📂 Repository Structure
 
-3️⃣ Project 3: Titanic Survival Prediction 🚢
+```
+ml-beginner-projects/
+│── Project1_HousePricePrediction/
+│   ├── HOusing.csv
+│   ├── house_price_prediction.ipynb
+│   ├── README.md
+│── Project2_IrisClassification/
+│   ├── iris_classification.ipynb
+│   ├── README.md
+│── Project3_TitanicSurvival/
+│   ├── titanic_prediction.ipynb
+│   ├── README.md
+│── Project4_StudentPerformance/
+│   ├── student_performance.ipynb
+│   ├── README.md
+│── Project5_DiabetesPrediction/
+│   ├── diabetes_prediction.ipynb
+│   ├── README.md
+└── README.md   # Main overview of all projects
+```
 
-Classification task on Titanic dataset
+---
 
-Models: Logistic Regression, Random Forest
+## 📊 Projects Overview
 
-Goal: Predict survival probability of passengers
+### 1️⃣ Project 1: House Price Prediction 🏡
 
-4️⃣ Project 4: Student Performance Prediction 🎓
+* **Type:** Regression
+* **Models:** Linear Regression, Decision Tree Regressor
+* **Dataset:** Housing dataset with features like area, bedrooms, bathrooms, parking, etc.
+* **Goal:** Predict house prices based on property features.
 
-Regression/Classification on student grades dataset
+### 2️⃣ Project 2: Iris Flower Classification 🌸
 
-Models: Linear Regression, Decision Tree
+* **Type:** Classification
+* **Models:** Logistic Regression, Decision Tree, KNN
+* **Dataset:** Famous Iris dataset
+* **Goal:** Classify flowers into **Setosa, Versicolor, Virginica**.
 
-Goal: Predict final grades & performance factors
+### 3️⃣ Project 3: Titanic Survival Prediction 🚢
 
-5️⃣ Project 5: Diabetes Prediction 🩺
+* **Type:** Classification
+* **Models:** Logistic Regression, Random Forest
+* **Dataset:** Titanic passenger dataset
+* **Goal:** Predict survival probability of passengers.
 
-Classification task using PIMA Diabetes dataset
+### 4️⃣ Project 4: Student Performance Prediction 🎓
 
-Models: Logistic Regression, Random Forest, SVM
+* **Type:** Regression / Classification
+* **Models:** Linear Regression, Decision Tree
+* **Dataset:** Student grades and performance dataset
+* **Goal:** Predict final grades and identify performance factors.
 
-Goal: Predict diabetes diagnosis
+### 5️⃣ Project 5: Diabetes Prediction 🩺
+
+* **Type:** Classification
+* **Models:** Logistic Regression, Random Forest, SVM
+* **Dataset:** PIMA Diabetes dataset
+* **Goal:** Predict diabetes diagnosis based on medical features.
